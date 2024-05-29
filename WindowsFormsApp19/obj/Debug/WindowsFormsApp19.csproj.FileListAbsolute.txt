@@ -1,0 +1,15 @@
+D:\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+D:\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+D:\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+D:\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Главная.resources
+D:\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+D:\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Лаборант.resources
+D:\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Нутрициолог.resources
+D:\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+D:\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+D:\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+D:\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Информация_Нутрицыолога.resources
+D:\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.информация_от_лаборанта.resources
+D:\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.AssemblyReference.cache
+D:\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Запись.resources
